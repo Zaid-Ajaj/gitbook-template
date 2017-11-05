@@ -17,7 +17,7 @@ git clone https://github.com/Zaid-Ajaj/gitbook-template.git my-awesome-book
 cd my-awesome-book
 ```
 
-At this point you have the template as a git repo on your machine pointing to the original git repo of the template. You don't want this, you want the local repo to point to one of your repos on github, so the to this, you follow these steps:
+At this point you have the template as a git repo on your machine pointing to the original git repo of the template. You don't want this, you want the local repo to point to one of your repos on github, so the to do this, you follow these steps:
 
  - Create an empty git repo on github, don't include anything yet
  - Create an empty `gh-pages` branch from github
