@@ -1,7 +1,7 @@
 {
   "name": "gitbook-template",
   "version": "1.0.0",
-  "description": "A starter gitbook with preconfigured settings and tasks",
+  "description": "A starter gitbook template with preconfigured settings and tasks",
   "dependencies": {},
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zaid-Ajaj/intro-gitbook.git"
+    "url": "https://github.com/Zaid-Ajaj/gitbook-template.git"
   },
   "keywords": [ "gitbook", "template"],
   "author": "Zaid Ajaj",
