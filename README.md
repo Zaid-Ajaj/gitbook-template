@@ -1,8 +1,10 @@
-# Gitbook Template
+# Fable.Remoting
 
-This repo is a template for a starter gitbook. It is structured as an npm project to help automate the tasks of building, writing and publishing. 
+Fable.Remoting is a library that enables type-safe client-server communication for F# featuring the popular web frameworks on the server and [Fable](http://fable.io/) on the client.   
 
+Supported Web Frameworks
+ - [Suave](https://github.com/SuaveIO/suave)
+ - [Giraffe](https://github.com/giraffe-fsharp/Giraffe)
+ - [Saturn](https://github.com/SaturnFramework/Saturn)
 
-> <i class="fa fa-info-circle"></i> Note
-
-> The contents of README.md is the what gets rendered at the index/root of the gitbook. It serves as the cover of your book.
+[Getting Started](src/getting-started.md)

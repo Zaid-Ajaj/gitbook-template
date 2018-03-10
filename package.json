@@ -15,9 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zaid-Ajaj/gitbook-template.git"
+    "url": "https://github.com/Zaid-Ajaj/Fable.Remoting.git"
   },
-  "keywords": [ "gitbook", "template"],
+  "keywords": [
+    "gitbook",
+    "template"
+  ],
   "author": "Zaid Ajaj",
   "license": "MIT"
 }
